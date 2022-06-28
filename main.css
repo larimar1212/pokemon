@@ -45,3 +45,7 @@ div[id^="pokemon-"] {
     border: 1px solid #ccc;
 
 }
+.roster-img {
+    height: 80px;
+    width: 80px;
+}
