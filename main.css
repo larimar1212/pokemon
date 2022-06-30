@@ -48,4 +48,6 @@ div[id^="pokemon-"] {
 .roster-img {
     height: 80px;
     width: 80px;
+    margin: 0 auto;
+    display: block;
 }
